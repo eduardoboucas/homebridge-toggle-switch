@@ -1,0 +1,23 @@
+{
+  "name": "homebridge-toggle-switch",
+  "version": "0.1.0",
+  "description": "Toggle switch for Homebridge",
+  "license": "MIT",
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/eduardoboucas/homebridge-toggle-switch.git"
+  },
+  "bugs": {
+    "url": "http://github.com/eduardoboucas/homebridge-toggle-switch/issues"
+  },
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  },
+  "dependencies": {
+    "node-persist": "^2.1.0"
+  }
+}
